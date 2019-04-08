@@ -1,5 +1,3 @@
-import React from 'react'
+export * from './Eclipse'
 
-const Spinner = props => <h1>Spinner</h1>
-
-export default Spinner
+export * from './Ripple'
